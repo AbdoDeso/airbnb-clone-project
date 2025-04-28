@@ -17,3 +17,12 @@ React.js – For building dynamic UI components
 Tailwind CSS – Styling and responsive design
 React Router v6 – Navigation and routing
 Figma / Adobe XD – UI/UX prototyping and design handoff
+
+# UI/UX Design Planning
+
+Authentication flow (Login / Register / Forgot Password)
+Dashboard views for Students and Instructors
+Course listing and detailed view pages
+Video player integration for lessons
+Progress tracker and quiz interface
+Fully responsive layout with mobile navigation

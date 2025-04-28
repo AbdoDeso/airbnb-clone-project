@@ -20,8 +20,8 @@ Responsive design for seamless use across devices
 
 # UI/UX Design Planning
 
-1.Authentication flow (Login / Register / Forgot Password)
-2.Dashboard views for Students and Instructors
+## Authentication flow (Login / Register / Forgot Password)
+## Dashboard views for Students and Instructors
 3.Course listing and detailed view pages
 4.Video player integration for lessons
 5.Progress tracker and quiz interface

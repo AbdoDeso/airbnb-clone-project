@@ -90,4 +90,37 @@ Typography
   16px
   Hyperlinks and navigation items
   
-  
+  # Project Roles and Responsibilities
+
+Product Owner / Stakeholder
+  Defines the product vision and requirements.
+  Prioritizes features based on business needs and user feedback.
+  Works closely with the team to define user stories and acceptance criteria.
+UX/UI Designer
+  Designs the overall look and feel of the application.
+  Creates wireframes, mockups, and interactive prototypes in Figma.
+  Conducts user research and usability testing.
+  Provides design assets and specifications (colors, fonts, spacing) for developer handoff.
+Front-End Developer (You)
+  Converts Figma designs into responsive and accessible web interfaces using HTML, CSS, and JavaScript.
+  Implements UI components using React.js and ensures they function as designed.
+  Integrates front-end with back-end APIs using Axios or Fetch API .
+  Manages application state using tools like Redux Toolkit .
+  Ensures cross-browser compatibility and mobile responsiveness.
+  Follows accessibility standards (WCAG) and semantic HTML practices.
+  Collaborates with designers to refine UI/UX during development.
+  Uses Git & GitHub for version control and collaborative development.
+Back-End Developer
+  Builds and maintains server-side logic and database interactions.
+  Develops RESTful APIs consumed by the front-end.
+  Handles authentication, authorization, and data validation.
+  Ensures security and performance of the backend services.
+QA Engineer / Tester
+  Plans and executes test cases for both front-end and back-end components.
+  Performs manual and automated testing to identify bugs and usability issues.
+  Reports issues using tools like Jira or GitHub Issues.
+  Ensures regression testing is done after updates.
+DevOps / Deployment Engineer (Optional)
+  Sets up CI/CD pipelines for automated testing and deployment.
+  Manages hosting environments (development, staging, production).
+  Ensures uptime, scalability, and performance of the deployed application.

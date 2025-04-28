@@ -12,20 +12,20 @@ Responsive design for seamless use across devices
 
 # The  Tech Stack
 
-HTML5 / CSS3 / JavaScript (ES6+)
-React.js – For building dynamic UI components
-Tailwind CSS – Styling and responsive design
-React Router v6 – Navigation and routing
-Figma / Adobe XD – UI/UX prototyping and design handoff
+1.HTML5 / CSS3 / JavaScript (ES6+)
+2.React.js – For building dynamic UI components
+3.Tailwind CSS – Styling and responsive design
+4.React Router v6 – Navigation and routing
+5.Figma / Adobe XD – UI/UX prototyping and design handoff
 
 # UI/UX Design Planning
 
-Authentication flow (Login / Register / Forgot Password)
-Dashboard views for Students and Instructors
-Course listing and detailed view pages
-Video player integration for lessons
-Progress tracker and quiz interface
-Fully responsive layout with mobile navigation
+1.Authentication flow (Login / Register / Forgot Password)
+2.Dashboard views for Students and Instructors
+3.Course listing and detailed view pages
+4.Video player integration for lessons
+5.Progress tracker and quiz interface
+6.Fully responsive layout with mobile navigation
 
 Color Styles
   Primary Blue
@@ -92,16 +92,16 @@ Typography
   
   # Project Roles and Responsibilities
 
-Product Owner / Stakeholder
+1.Product Owner / Stakeholder :
   Defines the product vision and requirements.
   Prioritizes features based on business needs and user feedback.
   Works closely with the team to define user stories and acceptance criteria.
-UX/UI Designer
+2.UX/UI Designer :
   Designs the overall look and feel of the application.
   Creates wireframes, mockups, and interactive prototypes in Figma.
   Conducts user research and usability testing.
   Provides design assets and specifications (colors, fonts, spacing) for developer handoff.
-Front-End Developer (You)
+3.Front-End Developer :
   Converts Figma designs into responsive and accessible web interfaces using HTML, CSS, and JavaScript.
   Implements UI components using React.js and ensures they function as designed.
   Integrates front-end with back-end APIs using Axios or Fetch API .
@@ -110,17 +110,17 @@ Front-End Developer (You)
   Follows accessibility standards (WCAG) and semantic HTML practices.
   Collaborates with designers to refine UI/UX during development.
   Uses Git & GitHub for version control and collaborative development.
-Back-End Developer
+4.Back-End Developer :
   Builds and maintains server-side logic and database interactions.
   Develops RESTful APIs consumed by the front-end.
   Handles authentication, authorization, and data validation.
   Ensures security and performance of the backend services.
-QA Engineer / Tester
+5.QA Engineer / Tester :
   Plans and executes test cases for both front-end and back-end components.
   Performs manual and automated testing to identify bugs and usability issues.
   Reports issues using tools like Jira or GitHub Issues.
   Ensures regression testing is done after updates.
-DevOps / Deployment Engineer (Optional)
+6.DevOps / Deployment Engineer :
   Sets up CI/CD pipelines for automated testing and deployment.
   Manages hosting environments (development, staging, production).
   Ensures uptime, scalability, and performance of the deployed application.
@@ -128,33 +128,32 @@ DevOps / Deployment Engineer (Optional)
 # UI Component Patterns
 
 1. Navbar (Navigation Bar)
-Purpose
+Purpose :
 Provides primary navigation across the application
-Key Elements
+Key Elements :
 Logo, navigation links (Home, Courses, Dashboard), user profile/avatar, search bar, theme toggle
-Responsiveness
+Responsiveness :
 Collapsible hamburger menu on mobile devices
-States
+States :
 Logged-in vs logged-out views, active route highlighting
-The navbar remains consistent across all pages and adapts its content based on user authentication status. 
 
 2.  Property Card (Course Preview Card)
-Purpose
+Purpose :
 Displays a compact preview of a course or property in listings
-Key Elements
+Key Elements :
 Thumbnail/image, title, short description, rating, price (if applicable), "View Details" button
-Reusability
+Reusability :
 Used in both grid and list view layouts
-Interactivity
+Interactivity :
 Clickable card redirects to detailed view page
 Designed to be flexible so it can display different types of content while maintaining visual consistency. 
 
 3.  Footer
-Purpose
+Purpose :
 Provides secondary navigation and additional information at the bottom of each page
-Key Elements
+Key Elements :
 Quick links, social media icons, contact info, copyright notice
-Variants
+Variants :
 Static footer used across all public-facing pages
-Accessibility
+Accessibility :
 Keyboard navigable and semantically structured

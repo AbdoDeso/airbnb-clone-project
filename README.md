@@ -124,3 +124,37 @@ DevOps / Deployment Engineer (Optional)
   Sets up CI/CD pipelines for automated testing and deployment.
   Manages hosting environments (development, staging, production).
   Ensures uptime, scalability, and performance of the deployed application.
+
+# UI Component Patterns
+
+1. Navbar (Navigation Bar)
+Purpose
+Provides primary navigation across the application
+Key Elements
+Logo, navigation links (Home, Courses, Dashboard), user profile/avatar, search bar, theme toggle
+Responsiveness
+Collapsible hamburger menu on mobile devices
+States
+Logged-in vs logged-out views, active route highlighting
+The navbar remains consistent across all pages and adapts its content based on user authentication status. 
+
+2.  Property Card (Course Preview Card)
+Purpose
+Displays a compact preview of a course or property in listings
+Key Elements
+Thumbnail/image, title, short description, rating, price (if applicable), "View Details" button
+Reusability
+Used in both grid and list view layouts
+Interactivity
+Clickable card redirects to detailed view page
+Designed to be flexible so it can display different types of content while maintaining visual consistency. 
+
+3.  Footer
+Purpose
+Provides secondary navigation and additional information at the bottom of each page
+Key Elements
+Quick links, social media icons, contact info, copyright notice
+Variants
+Static footer used across all public-facing pages
+Accessibility
+Keyboard navigable and semantically structured

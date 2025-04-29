@@ -20,38 +20,38 @@ Responsive design for seamless use across devices
 
 # UI/UX Design Planning
 
-## Authentication flow (Login / Register / Forgot Password)
-## Dashboard views for Students and Instructors
-3.Course listing and detailed view pages
-4.Video player integration for lessons
-5.Progress tracker and quiz interface
-6.Fully responsive layout with mobile navigation
+### Authentication flow (Login / Register / Forgot Password)
+### Dashboard views for Students and Instructors
+### Course listing and detailed view pages
+### Video player integration for lessons
+### Progress tracker and quiz interface
+### Fully responsive layout with mobile navigation
 
-Color Styles
-  Primary Blue
-  #1A73E8
-  Buttons, links, primary actions
-  Secondary Gray
-  #F1F3F4
-  Backgrounds, secondary buttons
-  Dark Text
-  #202124
-  Main body text
-  Light Text
-  #5F6368
-  Subtext, helper text
-  Success Green
-  #34A853
-  Success messages, confirmation elements
-  Error Red
-  #D93025
-  Error states, alerts
-  Background White
-  #FFFFFF
-  Page backgrounds
-  Card Background
-  #F8F9FA
-  Cards, modals
+## Color Styles
+######  Primary Blue
+######  #1A73E8
+######  Buttons, links, primary actions
+######  Secondary Gray
+######  #F1F3F4
+######  Backgrounds, secondary buttons
+######  Dark Text
+######  #202124
+######  Main body text
+######  Light Text
+######  #5F6368
+######  Subtext, helper text
+######  Success Green
+######  #34A853
+######  Success messages, confirmation elements
+######  Error Red
+######  #D93025
+######  Error states, alerts
+######  Background White
+######  #FFFFFF
+######  Page backgrounds
+######  Card Background
+######  #F8F9FA
+######  Cards, modals
 
 Typography
   Heading 1
